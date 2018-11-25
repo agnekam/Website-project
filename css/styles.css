@@ -4,6 +4,7 @@
   color: #f1f1f1;
 }
 
+<<<<<<< HEAD
 .body {
   padding: 16px;
 }
@@ -17,3 +18,11 @@
 .sticky + .body {
   padding-top: 102px;
 }
+=======
+ul.nav li{
+        display: inline-block;
+        padding-right: 10px;
+        padding-left: 10px;
+        text-align: center;
+    }
+>>>>>>> f5c5f8fe81353f8b5887f83bd527cce5f9bb48d6

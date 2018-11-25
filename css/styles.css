@@ -1,1 +1,6 @@
-styles Hi
+<style>
+    ul.nav li{
+        display: inline-block;
+        padding-right: 10px;
+    }
+</style>

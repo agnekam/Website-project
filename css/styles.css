@@ -11,3 +11,8 @@
 .column {
     width: 100%;
 }
+
+.blogpost img{
+  height:250px;
+  width:100%;
+}

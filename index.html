@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<script src="http://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script src="http://code.jquery.com/jquery-3.3.1.min.js"></script>
   <div class="header" id="myHeader">
    <h2>Dessert Hackers</h2>
 
@@ -46,22 +46,33 @@ initial-scale=1.0">
         <div class="col-xs-3">
           <div class="blogpost">
             <h2>Cake</h2><img class="responsive" src="images/cake.jpg">
+            <p> An easy cake recipe for a delicious celebratory dessert </p>
             <h2>Rose Tart</h2><img class="responsive" src="images/rosetart.jpg">
+            <p> An elegant tart recipe ideal for summer dinner parties. </p>
           </div>
             </div>
           <div class="col-xs-3">
             <div class="blogpost">
             <h2>Chocolate Souffle</h2><img class="responsive" src="images/chocolatesouffle.jpg">
+            <p> An indulgent treat to satisfy those with a sweet tooth </p>
           </div>
             </div>
           <div class="col-xs-3">
             <div class="blogpost">
             <h2>Cheesecake</h2><img class="responsive" src="images/cheesecake.jpg">
+            <p> Simple yet classic- a cheese cake to please the whole family. </p>
           </div>
             </div>
-        </div>    
+        </div>
   </div>
 
 
   <script src="js/scripts.js"></script>
+
+  <script>
+  $('div').on('click', function() {
+    $(this).toggleClass('show-description');
+  });
+
+  </script>
 </body>

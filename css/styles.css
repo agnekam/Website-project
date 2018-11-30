@@ -42,17 +42,7 @@ p {
   background: linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));
   background: -webkit-linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));
   background: -moz-linear-gradient(bottom, rgba(0,0,0,1), rgba(0,0,0,.4));
-  padding: 10px;
-  line-height: 28px;
-  text-align: justify;
-  position: absolute;
-  bottom: 0;
-  margin: 0;
-  height: 30px;
-  transition: height .5s;
-  -webkit-transition: height .5s;
-  -moz-transition: height .5s;
-}
+
 small{
   opacity: 0;
 }
@@ -62,28 +52,13 @@ small{
 .show-description small {
   opacity: 1;
 }
-.first{
-  background-image:"images/cake.jpg";
-}
-.second{
-  background-image:"images/rosetart.jpg"";
-}
-.third{
-  background-image:"images/rosetart.jpg";
-}
-.fourth{
-  background-image:"images/cheesecake.jpg";
-}
+
 
 .like {
   float:right;
 }
-@media (max-width: 500px) {
-  p {
-   font-size: 20px;
-   line-height: 24px;
- }
- small {
+
+small {
    font-size: 16px;
 }
 }

@@ -46,21 +46,26 @@ initial-scale=1.0">
         <div class="col-xs-3">
           <div class="blogpost">
             <h2>Cake</h2><img class="responsive" src="images/cake.jpg">
-            <p> An easy cake recipe for a delicious celebratory dessert </p>
+            <span class="like"><button>Like</button></span><br />
+            <p> An easy cake recipe for a delicious celebratory dessert. </p>
+              <button>Like</button>
             <h2>Rose Tart</h2><img class="responsive" src="images/rosetart.jpg">
             <p> An elegant tart recipe ideal for summer dinner parties. </p>
+
           </div>
             </div>
           <div class="col-xs-3">
             <div class="blogpost">
             <h2>Chocolate Souffle</h2><img class="responsive" src="images/chocolatesouffle.jpg">
-            <p> An indulgent treat to satisfy those with a sweet tooth </p>
+            <p> An indulgent treat to satisfy those with a sweet tooth. </p>
+              <button>Like</button>
           </div>
             </div>
           <div class="col-xs-3">
             <div class="blogpost">
             <h2>Cheesecake</h2><img class="responsive" src="images/cheesecake.jpg">
             <p> Simple yet classic- a cheese cake to please the whole family. </p>
+              <button>Like</button>
           </div>
             </div>
         </div>
@@ -73,6 +78,11 @@ initial-scale=1.0">
   $('div').on('click', function() {
     $(this).toggleClass('show-description');
   });
+
+  <script>
+  $("button").on("click", function() {alert("clicked")
+  });
+  </script>
 
   </script>
 </body>

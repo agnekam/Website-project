@@ -17,6 +17,10 @@
           display: inline;
           padding: 0px 10px 0px 10px;
         }
+.container-fluid {
+  background: url('https://pixabay.com/en/smarties-confectionery-sugar-candy-50838');
+  background-size: cover;
+}
 
 .body {
   padding: 16px;

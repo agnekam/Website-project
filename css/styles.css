@@ -16,3 +16,7 @@
   height:250px;
   width:100%;
 }
+
+.like {
+  float: right;
+}

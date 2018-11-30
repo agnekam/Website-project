@@ -7,7 +7,7 @@
     }
 
 .subscribe {
-  float: right;
+  float:right;
 }
 
     ul {
@@ -17,6 +17,7 @@
         li {
           display: inline;
           padding: 0px 10px 0px 10px;
+          text-align: center;
         }
 
 .body {
@@ -35,5 +36,5 @@
 
 
 .like {
-  float: right;
+  float:right;
 }

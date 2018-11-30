@@ -2,12 +2,8 @@
   padding: 10px 16px;
   background: #555;
   color: #f1f1f1;
-}
-header {
-      text-align: center;
-      background: red;
-      background-size: cover;
-      color: white;
+  text-align: center;
+  color: white;
     }
 
 .body {

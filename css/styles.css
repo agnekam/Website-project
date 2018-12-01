@@ -37,7 +37,7 @@
 
 .middle {
   transition: .5s ease;
-  opacity: 0;
+  opacity: 0.5;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -52,6 +52,6 @@
 
 .blogpost-title {
   color: white;
-  font-size: small;
+  font-size: medium;
   padding: 16px 32px;
 }

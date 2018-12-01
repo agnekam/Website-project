@@ -21,11 +21,36 @@
   float: right;
 }
 
-.card-columns {
-  @include media-breakpoint-only(lg) {
-    column-count: 4;
-  }
-  @include media-breakpoint-only(xl) {
-    column-count: 5;
-  }
+.postbox {
+  background: black;
+  padding: 0px;
+  position: relative;
+  text-align: center;
+  width: 100%;
+}
+
+.postbox {
+  opacity: 1;
+  transition: 0.5s opacity;
+}
+
+.postbox .post-title {
+  background-color: rgba(0, 0, 0, 0.6);
+  bottom: 0px;
+  color: white;
+  font-size: 1.2em;
+  left: 0px;
+  padding: 10px 15px;
+  position: absolute;
+  transition: 0.5s padding;
+  text-align: center;
+  width: 100%;
+}
+
+.postbox:hover img {
+  opacity: 0.7;
+}
+
+.postbox: hover .post-title {
+  padding-bottom: 10%;
 }

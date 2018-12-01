@@ -20,11 +20,9 @@ body {
     padding-bottom: 15px;
 }
 
-
 .like {
   float: right;
 }
-
 
 .container {
   position: relative;
@@ -65,6 +63,7 @@ body {
 }
 
 .image{
+  height: 250px;
   width: 100%;
 }
 

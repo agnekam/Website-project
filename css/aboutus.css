@@ -4,16 +4,16 @@
 }
 
 .p-b-2 {
-  padding-bottom: ($spacer-x * 2) !IMPORTANT;
-  padding-bottom: ($spacer-y * 2) !IMPORTANT;
+  padding-bottom: ($spacer-x * 2);
+  padding-bottom: ($spacer-y * 2);
 }
 .add-padding {
-	padding-bottom: 20px !IMPORTANT;
-	margin-bottom: 20px !IMPORTANT;
+	padding-bottom: 20px;
+	margin-bottom: 20px;
 }
 .row .col-md-9 .add-padding{
-	padding-bottom: 20px !IMPORTANT;
+	padding-bottom: 20px;
 }
 img *{
-	padding-bottom:20px !IMPORTANT;
+	padding-bottom:20px;
 }

@@ -8,6 +8,9 @@
   font: rgba(0,255,255,0.8)
 }
 
+.title {
+  font-style: italic;
+}
 
 .body {
   padding: 16px;

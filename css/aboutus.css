@@ -4,6 +4,6 @@
 }
 
 .container {
-  position: relative;
+  position: inherit;
   width: 100%;
 }

@@ -27,6 +27,10 @@
   width: 100%;
 }
 
+.form-group {
+  margin-bottom: 15px;
+}
+
 .container .blogpost-title {
   color: #C0C0C0;
   text-align:center;

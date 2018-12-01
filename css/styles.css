@@ -1,7 +1,5 @@
-.header {
-  padding: 10px 16px;
-  background: #555;
-  color: #f1f1f1;
+.navbar-inverse {
+  background-color: rgba(32, 35, 41,0.8);
 }
 
 .body {
@@ -12,10 +10,6 @@
     width: 100%;
 }
 
-.blogpost img{
-  height:250px;
-  width:100%;
-}
 
 .like {
   float: right;

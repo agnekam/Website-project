@@ -1,4 +1,4 @@
-img.resize 'images/kitchenutnesils.jpg' {
+.kitchen {
   max-width:50%;
   max-height:50%;
 }

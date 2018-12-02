@@ -106,7 +106,10 @@ body {
 }
 
 
-#social-buttons .btn-primary {
+#social-buttons {
+  padding-bottom: 50px
+}
+.btn-primary {
 	border: none;
 }
 

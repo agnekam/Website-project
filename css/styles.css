@@ -107,7 +107,7 @@ body {
 
 
 #social-buttons {
-  padding-bottom: 50px
+  float: right;
 }
 .btn-primary {
 	border: none;

@@ -37,7 +37,8 @@ body {
 
 h2 {
 	margin-bottom: 50px;
-  text-align: center;
+  text-align: left;
+  margin-left: 20px;
 }
 
 blockquote p {

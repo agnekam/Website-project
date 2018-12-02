@@ -106,9 +106,9 @@ body {
 }
 
 
-
+#socialbutoons
 .btn-twitter {
-	background-color: blue;
+	background-color:blue;
 }
 
 .btn-twitter:hover {
@@ -116,7 +116,7 @@ body {
 }
 
 .btn-facebook {
-	background-color: blue;
+	background-color:blue;
 }
 
 .btn-facebook:hover {
@@ -124,10 +124,9 @@ body {
 }
 
 .btn-pinterest {
-	background-color: red;
+	background-color:red;
 }
 
 .btn-pinterest:hover {
 	background-color: #D15260;
-}
 }

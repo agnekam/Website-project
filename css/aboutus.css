@@ -12,6 +12,8 @@
 
 .navbar-toggle {
   border: 0;
+  background: url('images/confetti-cookies.jpg');
+  background-size: cover;
 }
 
 

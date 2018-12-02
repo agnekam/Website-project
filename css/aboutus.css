@@ -12,13 +12,16 @@
 
 .navbar-toggle {
   border: 0;
-  background: url('images/confetti-cookies.jpg');
-  background-size: cover;
 }
 
 
 body {
   padding-top: 70px;
+}
+
+.display_4 {
+  background: url('images/confetti-cookies.jpg');
+  background-size: cover;
 }
 
 .col-md-3 {

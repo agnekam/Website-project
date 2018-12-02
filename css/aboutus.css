@@ -25,3 +25,11 @@ body {
   position: relative;
   width: 100%;
 }
+
+.add-padding {
+	padding-bottom: 20px;
+	margin-bottom: 20px;
+}
+.row .col-md-9 .add-padding{
+	padding-bottom: 20px;
+}

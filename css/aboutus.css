@@ -28,6 +28,9 @@ body {
   width: 100%;
 }
 
+.kitchen {
+  image-orientation: cover;
+}
 
 
 .add-padding {

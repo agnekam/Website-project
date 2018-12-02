@@ -106,9 +106,12 @@ body {
 }
 
 
-#socialbutoons
+#social-buttons .btn-primary {
+	border: none;
+}
+
 .btn-twitter {
-	background-color:blue;
+	background-color: #1da1f2;
 }
 
 .btn-twitter:hover {
@@ -116,7 +119,7 @@ body {
 }
 
 .btn-facebook {
-	background-color:blue;
+	background-color: #3b5998;
 }
 
 .btn-facebook:hover {
@@ -124,12 +127,13 @@ body {
 }
 
 .btn-pinterest {
-	background-color:red;
+	background-color: #bd081c;
 }
 
 .btn-pinterest:hover {
 	background-color: #D15260;
 }
+
 
 #Codefirst {
 	background-color: rgba(32, 35, 41, 0.9);

@@ -19,8 +19,8 @@ body {
   padding-top: 70px;
 }
 
-.display_4 {
-  background:"images/confetti-cookies.jpg";
+.title {
+  background: url("https://smittenkitchendotcom.files.wordpress.com/2016/05/confetti-cookies1.jpg?w=750");
   background-size: cover;
 }
 

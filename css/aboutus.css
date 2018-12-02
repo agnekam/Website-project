@@ -2,12 +2,11 @@
 .navbar-header {
   background-color: pink;
   border: 0;
-  color: blue;
 }
 
 .navbar-brand {
   font-weight: bold;
-  color: color: pink;
+  color: pink;
 }
 
 .navbar-toggle {

@@ -1,4 +1,7 @@
-
+.navbar-header {
+  background-color: pink;
+  border: 0;
+}
 
 .navbar-inverse {
   background-color: rgba(192,192,192,0.8);
@@ -7,7 +10,7 @@
 
 .navbar-brand {
   font-weight: bold;
-  font-color: rgba(255,255,255,0.8);
+  color: rgba(255,255,255,0.8);
 }
 
 .navbar-toggle {

@@ -105,13 +105,8 @@ body {
   top: 20%;
 }
 
-/* Social media buttons */
-#social-buttons
 
-.btn-primary {
-	border: none;
-}
-
+#socialbuttons {
 .btn-twitter {
 	background-color: #1da1f2;
 }
@@ -134,4 +129,5 @@ body {
 
 .btn-pinterest:hover {
 	background-color: #D15260;
+}
 }

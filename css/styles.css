@@ -106,15 +106,14 @@ body {
 }
 
 
-#social-buttons {
-  float: right;
-}
+#social-buttons
 .btn-primary {
 	border: none;
 }
 
 .btn-twitter {
 	background-color: #1da1f2;
+  float: right;
 }
 
 .btn-twitter:hover {
@@ -123,6 +122,7 @@ body {
 
 .btn-facebook {
 	background-color: #3b5998;
+  float: right;
 }
 
 .btn-facebook:hover {
@@ -131,6 +131,7 @@ body {
 
 .btn-pinterest {
 	background-color: #bd081c;
+  float: right;
 }
 
 .btn-pinterest:hover {

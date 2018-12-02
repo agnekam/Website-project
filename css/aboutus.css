@@ -2,7 +2,6 @@
 .navbar-header {
   background-color: pink;
   border: 0;
-  color: blue;
 }
 
 .navbar-brand {
@@ -12,16 +11,12 @@
 
 .navbar-toggle {
   border: 0;
+  color: pink;
 }
 
 
 body {
   padding-top: 70px;
-}
-
-.title {
-  background: url("https://smittenkitchendotcom.files.wordpress.com/2016/05/confetti-cookies1.jpg?w=750");
-  background-size: cover;
 }
 
 .col-md-3 {

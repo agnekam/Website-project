@@ -130,3 +130,9 @@ body {
 .btn-pinterest:hover {
 	background-color: #D15260;
 }
+
+#Codefirst {
+	background-color: rgba(32, 35, 41, 0.9);
+	color: #ddd;
+	padding: 50px 0;
+}

@@ -5,7 +5,7 @@
 
 .navbar-brand {
   font-weight: bold;
-  font-color: rgba(255,255,255,0.8)
+  font: rgba(255,255,255,0.8);
 }
 
 .navbar-toggle {

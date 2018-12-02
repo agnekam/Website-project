@@ -17,6 +17,10 @@ body {
   padding-top: 70px;
 }
 
+img {
+  width: 100%
+}
+
 .col-md-3 {
     padding-bottom: 15px;
 }
@@ -38,7 +42,6 @@ body {
 h2 {
 	margin-bottom: 50px;
   text-align: left;
-  margin-left: 20px;
 }
 
 blockquote p {

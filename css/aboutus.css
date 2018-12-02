@@ -1,7 +1,7 @@
 .navbar-header {
   background-color: pink;
   border: 0;
-  color:blue;
+  color: blue;
 }
 
 .navbar-brand {
@@ -11,6 +11,23 @@
 
 .navbar-toggle {
   border: 0;
+}
+
+body {
+  padding-top: 70px;
+}
+
+.col-md-3 {
+    padding-bottom: 15px;
+}
+
+.like {
+  float: right;
+}
+
+.container {
+  position: relative;
+  width: 100%;
 }
 
 .kitchen {

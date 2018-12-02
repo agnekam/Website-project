@@ -107,6 +107,7 @@ body {
 
 
 #socialbuttons {
+
 .btn-twitter {
 	background-color: #1da1f2;
 }
@@ -116,7 +117,7 @@ body {
 }
 
 .btn-facebook {
-	background-color: #3b5998;
+	background-color: blue;
 }
 
 .btn-facebook:hover {

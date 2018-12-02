@@ -20,7 +20,7 @@ body {
 }
 
 .display_4 {
-  background: src="images/confetti-cookies.jpg";
+  background:"images/confetti-cookies.jpg";
   background-size: cover;
 }
 

@@ -13,16 +13,13 @@
   border: 0;
 }
 
+
 body {
   padding-top: 70px;
 }
 
 .col-md-3 {
     padding-bottom: 15px;
-}
-
-.like {
-  float: right;
 }
 
 .container {
@@ -106,4 +103,35 @@ body {
 
 .blogpost-details {
   top: 20%;
+}
+
+/* Social media buttons */
+#social-buttons
+
+.btn-primary {
+	border: none;
+}
+
+.btn-twitter {
+	background-color: #1da1f2;
+}
+
+.btn-twitter:hover {
+	background-color: #60BDF6;
+}
+
+.btn-facebook {
+	background-color: #3b5998;
+}
+
+.btn-facebook:hover {
+	background-color: #768BB7;
+}
+
+.btn-pinterest {
+	background-color: #bd081c;
+}
+
+.btn-pinterest:hover {
+	background-color: #D15260;
 }

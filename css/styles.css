@@ -7,7 +7,6 @@
 .navbar-brand {
   font-weight: bold;
   color: rgba(255,255,255,0.8);
-  font-family: 'Mukta', sans-serif;
 }
 
 .navbar-toggle {
@@ -32,7 +31,6 @@ body {
   color: #C0C0C0;
   text-align:center;
   margin-bottom: 10px;
-  font-family: 'Mukta', sans-serif;
 }
 
 .blogpost {
@@ -82,7 +80,6 @@ body {
   -webkit-transition: all 0.3s ease-in-out 0s;
   -moz-transition: all 0.3s ease-in-out 0s;
   transition: all 0.3s ease-in-out 0s;
-  font-family: 'Mukta', sans-serif;
 }
 
 .blogpost:hover .blogpost-details{
@@ -97,7 +94,6 @@ body {
   letter-spacing: 0.15em;
   margin-bottom: 0.5em;
   text-transform: uppercase;
-  font-family: 'Mukta', sans-serif;
 }
 
 .blogpost-details p{
@@ -147,5 +143,4 @@ body {
 	background-color: rgba(32, 35, 41, 0.9);
 	color: #ddd;
 	padding: 50px 0;
-  font-family: 'Mukta', sans-serif;
 }

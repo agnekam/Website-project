@@ -106,10 +106,10 @@ body {
 }
 
 
-#socialbuttons {
+#socialbuttons
 
 .btn-twitter {
-	background-color: #1da1f2;
+	background-color: blue;
 }
 
 .btn-twitter:hover {
@@ -125,7 +125,7 @@ body {
 }
 
 .btn-pinterest {
-	background-color: #bd081c;
+	background-color: red;
 }
 
 .btn-pinterest:hover {

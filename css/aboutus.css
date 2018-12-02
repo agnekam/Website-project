@@ -25,20 +25,3 @@ body {
   position: relative;
   width: 100%;
 }
-
-.kitchen {
-  image-orientation: cover;
-}
-
-
-
-.add-padding {
-	padding-bottom: 20px;
-	margin-bottom: 20px;
-}
-.row .col-md-9 .add-padding{
-	padding-bottom: 20px;
-}
-img *{
-	padding-bottom:20px;
-}

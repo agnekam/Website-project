@@ -1,10 +1,7 @@
-.header {
-  background-color: grey;
-  color: pink;
-}
+
 
 .navbar-inverse {
-  background-color: rgba(128,128,128,0.8);
+  background-color: rgba(192,192,192,0.8);
   border: 0;
 }
 

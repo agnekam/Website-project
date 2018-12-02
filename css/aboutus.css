@@ -15,7 +15,7 @@
 
 /* Jumbotron */
 .jumbotron {
-	background-image: url('././images/confetti-cookies.jpg');
+	background-image: url('./images/confetti-cookies.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
 	border-radius: 0;

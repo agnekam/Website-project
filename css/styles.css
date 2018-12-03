@@ -13,7 +13,7 @@
   border: 0;
 }
 
-.jumbotron-fluid {
+.jumbotron .bg {
   background-position: absolute;
   top: 0;
   left: 0;

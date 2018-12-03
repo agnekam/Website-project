@@ -119,9 +119,7 @@ body {
 	border: none;
 }
 
-.fa-twitter {
-  background: #55ACEE;
-  color: white;
+
 
 .fa {
   padding: 20px;
@@ -137,6 +135,10 @@ body {
 
 .fa-facebook {
   background: #3B5998;
+  color: white;
+
+.fa-twitter {
+  background: #55ACEE;
   color: white;
 
 

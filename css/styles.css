@@ -159,7 +159,7 @@ input[type=text]:focus, input[type=password]:focus {
     outline: none;
 }
 
-.signupform {
+button {
     background-color: #4CAF50;
     color: white;
     padding: 14px 20px;

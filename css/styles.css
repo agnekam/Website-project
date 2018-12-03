@@ -144,6 +144,10 @@ body {
 	background-color: #e5776c;
 }
 
+.button .onclick {
+  background-color: #4CAF50;
+}
+
 
 input[type=text], input[type=password] {
     width: 100%;

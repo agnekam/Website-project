@@ -144,10 +144,6 @@ body {
 	background-color: #e5776c;
 }
 
-#socialbuttons {
-  padding-bottom: 30px;
-  border:0
-}
 
 input[type=text], input[type=password] {
     width: 100%;

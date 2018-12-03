@@ -233,7 +233,7 @@ hr {
     display: table;
 }
 
-@media screen and (max-width: 300px) {
+@media screen and (max-width: 200px) {
     .cancelbtn, .signupbtn {
        width: 100%;
     }

@@ -119,6 +119,10 @@ body {
 	border: none;
 }
 
+#social-buttons {
+  position: fixed;
+}
+
 .btn-twitter {
 	background-color: #1da1f2;
   float: right;

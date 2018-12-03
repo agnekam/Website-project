@@ -16,8 +16,7 @@
 .jumbotron {
   padding-top: 90px;
   min-height: 200px;
-  margin-bottom: 0;
-  background-image: url('images/baking.jpg');
+  background-image: url('https://smallbiztrends.com/wp-content/uploads/2017/04/shutterstock_440667025-850x476.jpg');
   background-size: cover;
   background-attachment: fixed;
 }

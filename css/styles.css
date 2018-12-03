@@ -119,7 +119,11 @@ body {
 	border: none;
 }
 
-
+#Codefirst {
+	background-color: rgba(32, 35, 41, 0.9);
+	color: #ddd;
+  padding-bottom: 30px;
+}
 
 .fa {
   padding: 20px;
@@ -132,28 +136,19 @@ body {
 
 .fa:hover {
   opacity: 0.7;
+}
 
 .fa-facebook {
   background: #3B5998;
   color: white;
+}
 
 .fa-twitter {
   background: #55ACEE;
   color: white;
-
-
-.btn-pinterest {
-	background-color: #bd081c;
-  float: right;
 }
 
-.btn-pinterest:hover {
-	background-color: #D15260;
-}
-
-
-#Codefirst {
-	background-color: rgba(32, 35, 41, 0.9);
-	color: #ddd;
-  padding-bottom: 30px;
+.fa-pinterest {
+  background: #cb2027;
+  color: white;
 }

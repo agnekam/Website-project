@@ -119,14 +119,9 @@ body {
 	border: none;
 }
 
-.btn-twitter {
-	background-color: #1da1f2;
-  float: right;
-}
-
-.btn-twitter:hover {
-	background-color: #60BDF6;
-}
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
 
 .fa {
   padding: 20px;

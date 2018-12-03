@@ -159,7 +159,7 @@ input[type=text]:focus, input[type=password]:focus {
     outline: none;
 }
 
-button {
+button #socialbuttons {
     background-color: #4CAF50;
     color: white;
     padding: 14px 20px;
@@ -233,7 +233,7 @@ hr {
     display: table;
 }
 
-@media screen and (max-width: 200px) {
+@media screen and (max-width: 300px) {
     .cancelbtn, .signupbtn {
        width: 100%;
     }

@@ -13,7 +13,7 @@
   border: 0;
 }
 
-#blogheader {
+.jumbotron {
   background-position: absolute;
   background-image: url(https://i.pinimg.com/originals/85/6d/e1/856de1f782fad66f7ef53dc230e238cb.jpg);
   background-position: 0% 25%;

@@ -120,31 +120,28 @@ body {
   padding-bottom: 30px;
 }
 
-.fa {
-  padding: 20px;
-  font-size: 50px;
-  width: 50px;
-  text-decoration: none;
-  margin: 5px 2px;
+.btn-facebook {
+	background-color: #3b5998;
 }
 
-.fa:hover {
-  opacity: 0.7;
+.btn-facebook:hover {
+	background-color: #768BB7;
 }
 
-.fa-facebook {
-  background: #3B5998;
-  color: white;
+.btn-twitter {
+	background-color: #00aced;
 }
 
-.fa-twitter {
-  background: #55ACEE;
-  color: white;
+.btn-twitter:hover {
+	background-color: #00aced;
 }
 
-.fa-pinterest {
-  background: #cb2027;
-  color: white;
+.btn-pinterest {
+	background-color: #c8232c;
+}
+
+.btn-pinterest:hover {
+	background-color: #c8232c;
 }
 
 #socialbuttons {

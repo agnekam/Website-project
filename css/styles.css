@@ -119,8 +119,8 @@ body {
 	border: none;
 }
 
-.col-md-8 .p-3 {
-  padding: $spacer !important;
+.col-md-8 {
+  padding: 15px;
 }
 
 .btn-twitter {

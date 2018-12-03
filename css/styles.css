@@ -144,7 +144,7 @@ body {
 	background-color: #e5776c;
 }
 
-.button .onclick {
+.btn-signup {
   background-color: #4CAF50;
 }
 
@@ -164,8 +164,7 @@ input[type=text]:focus, input[type=password]:focus {
 }
 
 button .onclick {
-    background-color: #4CAF50;
-    color: white;
+    color: #4CAF50;
     padding: 14px 20px;
     margin: 8px 0;
     border: none;
